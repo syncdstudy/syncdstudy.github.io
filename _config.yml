@@ -1,6 +1,10 @@
-title: Sync’d
-description: Optimizing Student Time Management
-remote_theme: pages-themes/architect@v0.2.0
-
-plugins:
-  - jekyll-remote-theme
+title: Sync'd Study
+description: Profiles, Projects, and Interests for the UH Community
+google_analytics:
+show_downloads: false
+theme: jekyll-theme-minimal
+github:
+  is_project_page: true
+  repository_url: https://github.com/syncdstudy/syncdstudy.github.io
+gems:
+  - jekyll-mentions
