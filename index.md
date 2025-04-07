@@ -1,8 +1,8 @@
-# SyncdStudy
+# Sync'd Study
 
 ## Table of contents
 * [Overview](#overview)
-* [Deployment](#deployment)
+* [Deployment](#development)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -47,7 +47,7 @@ Here's how it works:
 
 ## Deployment
 
-SyncdStudy will be deployed at https://syncdstudy.github.io. This site provides public documentation and walkthroughs for the application.
+Sync'd Study will be deployed at https://syncdstudy.github.io. This site provides public documentation and walkthroughs for the application.
 
 ## User Guide
 
@@ -89,7 +89,7 @@ Earn points by participating in sessions, organizing events, or helping others. 
 
 ## Community Feedback
 
-Have suggestions or comments? Submit your feedback through our SyncdStudy Feedback Form.
+Have suggestions or comments? Submit your feedback through our Sync'd Study Feedback Form.
 
 ## Developer Guide
 
@@ -123,4 +123,4 @@ Milestone 4:
 
 ## Team
 
-SyncdStudy is developed by a team of ICS students at UH Mānoa: [Angela Joy Almeron](https://angelaalmeron.github.io/), [Silvia Arjona](https://silviaarjonag.github.io/), [Arisa Nakai](https://arisa-1208.github.io/), and [Jaimee Yokoyama](https://jamiee-tech.github.io/). For more information, visit our [GitHub repo](https://github.com/syncdstudy/syncdstudy.github.io).
+Sync'd Study is developed by a team of ICS students at UH Mānoa: [Angela Joy Almeron](https://angelaalmeron.github.io/), [Silvia Arjona](https://silviaarjonag.github.io/), [Arisa Nakai](https://arisa-1208.github.io/), and [Jaimee Yokoyama](https://jamiee-tech.github.io/). For more information or contributions, visit our [GitHub repo](https://github.com/syncdstudy/syncdstudy.github.io).
