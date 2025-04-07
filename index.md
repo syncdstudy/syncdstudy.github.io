@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Deployment](#development)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -18,15 +18,16 @@
 
 Here's how it works: 
 
-- **User Profiles:** Students log in and set up a profile that includes a headshot and two course lists:
-    - Courses they’ve taken and can help with (Sensei)
-    - Courses they’re currently taking and need help with (Grasshopper) Every student can be both a sensei and a grasshopper, depending on the course.
+- **User Profiles:** Students must log in and set up their profile that includes a headshot and two course lists:
+    - Courses they’ve taken and can help with. (Sensei)
+    - Courses they’re currently taking and need help with. (Grasshopper)
+    - Every student can be both a sensei and a grasshopper, depending on the course.
 
-- **Course Directory:** All ICS courses are listed on the site. Within each course, students can view the senseis and *grasshoppers* (a student currently taking the course and potentially looking for help) associated with it. 
+- **Course Directory:** All ICS courses are listed on the site. Within each course, students can view the senseis and grasshoppers associated with it. 
 
-- **Study Session Scheduling:** Grasshoppers can propose face-to-face study sessions focused on a specific topic (e.g. “Help with configuration management”) and a time to meet in ICSpace.
-    - Plan Ahead: Schedule a study session in advance for later in the day or week.
-    - Right Now: Create a session instantly, notifying others that help is needed now in ICSpace.
+- **Study Session Scheduling:** Grasshoppers can propose face-to-face study sessions focused on a specific topic (e.g. “Write my essay on configuration management” and a time to meet in ICSpace (i.e. 10:30-11:30 AM morning)).
+    - *Plan Ahead:* Schedule a study session in advance for later in the day or week.
+    - *Right Now:* Create a session instantly, notifying others that help is needed now in ICSpace.
 
 - **Notifications:** When a session is proposed, senseis and grasshoppers for that course receive a notification.
 
@@ -51,6 +52,8 @@ Sync'd Study will be deployed at https://syncdstudy.github.io. This site provide
 
 ## User Guide
 
+This section provides a walkthrough of the Sync'd Study user interface and its capabilities.
+
 ### Landing Page
 
 Public entry point to explain the app and link to login.
@@ -63,25 +66,25 @@ Displays personal dashboard and calendar. Includes quick links to profile and st
 
 Displays a personal dashboard and calendar, with additional tools to monitor users, manage sessions, and oversee platform activity.
 
-### Profile Setup
+### User Profile Setup
 
 Users declare their courses (past and present) and upload a headshot.
+
+### Calendar Page
+
+Visual display of all upcoming and active sessions.
+
+### Create Study Sesh Page
+
+Propose a new session by selecting course, topic, and time. Sessions can be scheduled in advance or "Right Now!".
 
 ### Course Pages
 
 Each ICS course shows sensei and grasshopper members, and active/proposed study sessions.
 
-### Create Study Sesh
-
-Propose a new session by selecting course, topic, and time. Sessions can be scheduled in advance or "Right Now!".
-
 ### Notifications
 
 Members of the course receive alerts and can respond to confirm attendance.
-
-### Calendar
-
-Visual display of all upcoming and active sessions.
 
 ### Game Mechanics
 
