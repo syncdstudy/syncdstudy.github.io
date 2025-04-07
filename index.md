@@ -2,7 +2,7 @@
 
 ## Table of contents
 * [Overview](#overview)
-* [Deployment](#development)
+* [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
