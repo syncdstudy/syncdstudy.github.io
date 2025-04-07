@@ -7,9 +7,6 @@
 - Community Feedback
 - Developer Guide
 - Development History
-- Continuous Integration
-- Walkthrough videos
-- Example enhancements
 - Team
 
 ## Overview
