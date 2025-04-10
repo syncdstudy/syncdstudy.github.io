@@ -10,9 +10,9 @@
 * [Team](#team)
 
 ## Overview
-*The Problem:* ICS students often study in isolation, leading to inefficiency and weaker understanding. There are few systems that facilitate real-time, face-to-face study collaboration.
+*The Problem:* UHM students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
 
-*The Solution:* Sync'd Study is a web application designed to help ICS students at the University of Hawai‘i at Mānoa optimize their study time through peer-organized, in-person study sessions. It enables students to easily propose and join study sessions in ICSpace. Students are categorized as "sensei" (helpers) and "grasshoppers" (learners) depending on the course.
+*The Solution:* Sync’d Study is a web application designed to help students at the University of Hawai‘i at Mānoa optimize their study time through peer-organized, in-person study sessions. It enables students to easily propose and join study sessions in many different subjects. Students are categorized as “<ins>sensei</ins>” (helpers) and “<ins>grasshoppers</ins>” (learners) depending on the course.
 
 ### Key Features
 
@@ -23,11 +23,11 @@ Here's how it works:
     - Courses they’re currently taking and need help with. (Grasshopper)
     - Every student can be both a sensei and a grasshopper, depending on the course.
 
-- **Course Directory:** All ICS courses are listed on the site. Within each course, students can view the senseis and grasshoppers associated with it. 
+- **Course Directory:** All courses are listed on the site. Within each course, students can view the senseis and grasshoppers associated with it. 
 
-- **Study Session Scheduling:** Grasshoppers can propose face-to-face study sessions focused on a specific topic (e.g. “Write my essay on configuration management” and a time to meet in ICSpace (i.e. 10:30-11:30 AM morning)).
+- **Study Session Scheduling:** Grasshoppers can propose face-to-face study sessions focused on a specific topic (e.g. “Write my essay on configuration management” and a time to meet in Campus Center (i.e. 10:30-11:30 AM morning)).
     - *Plan Ahead:* Schedule a study session in advance for later in the day or week.
-    - *Right Now:* Create a session instantly, notifying others that help is needed now in ICSpace.
+    - *Right Now:* Create a session instantly, notifying others that help is needed now in Campus Center.
 
 - **Notifications:** When a session is proposed, senseis and grasshoppers for that course receive a notification.
 
@@ -42,7 +42,7 @@ Here's how it works:
 
 ### Goals
 
-- Foster in-person collaboration in ICSpace.
+- Foster in-person collaboration on campus.
 - Encourage student interaction and peer mentoring.
 - Promote safe, structured real-world study support.
 
@@ -80,7 +80,7 @@ Propose a new session by selecting course, topic, and time. Sessions can be sche
 
 ### Course Pages
 
-Each ICS course shows sensei and grasshopper members, and active/proposed study sessions.
+Each course shows sensei and grasshopper members, and active/proposed study sessions.
 
 ### Notifications
 
