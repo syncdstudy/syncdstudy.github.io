@@ -7,7 +7,7 @@
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Meet the Team](#team)
+* [Meet the Team](#meet-the-team)
 
 ## Overview
 *The Problem:* UHM students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
