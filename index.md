@@ -1,13 +1,13 @@
 # Sync'd Study
 
-## Table of contents
+## Table of Contents
 * [Overview](#overview)
 * [Deployment](#deployment)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
 * [Development History](#development-history)
-* [Team](#team)
+* [Meet the Team](#team)
 
 ## Overview
 *The Problem:* UHM students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
@@ -29,14 +29,14 @@ Here's how it works:
     - *Plan Ahead:* Schedule a study session in advance for later in the day or week.
     - *Right Now:* Create a session instantly, notifying others that help is needed now in Campus Center.
 
-- **Notifications:** When a session is proposed, senseis and grasshoppers for that course receive a notification.
+- **Notifications:** When a session is proposed, senseis and grasshoppers for that course will receive a notification.
 
 - **Calendar View:** A shared calendar displays all upcoming and ongoing study sessions, along with the list of attendees.
 
 - **Gamification:** To encourage participation, the app includes:
-    - A point system, levels, and a leaderboard
-    - Incentives such as gift cards for top-performing senseis and grasshoppers
-    - Anti-cheating measures to ensure points are earned through meaningful interaction
+    - A point system, levels, and a leaderboard.
+    - Incentives such as gift cards for top-performing senseis and grasshoppers.
+    - Anti-cheating measures to ensure points are earned through meaningful interaction. *(Feature under discussion)*
 
 - **Admin Tools:** Admins can monitor user activity, resolve issues, and ensure the space remains safe and supportive. Users can also contact admins to report inappropriate behavior.
 
@@ -129,6 +129,6 @@ Milestone 4:
 - No development tasks completed for this milestone yet.
 
 
-## Team
+## Meet the Team
 
 Sync'd Study is developed by a team of ICS students at UH Mānoa: [Angela Joy Almeron](https://angelaalmeron.github.io/), [Silvia Arjona](https://silviaarjonag.github.io/), [Arisa Nakai](https://arisa-1208.github.io/), and [Jaimee Yokoyama](https://jamiee-tech.github.io/). For more information or contributions, visit our [GitHub repo](https://github.com/syncdstudy/syncdstudy.github.io).
