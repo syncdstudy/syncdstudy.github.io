@@ -12,7 +12,7 @@
 ## Overview
 *The Problem:* UHM students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
 
-*The Solution:* Sync’d Study is a web application designed to help students at the University of Hawai‘i at Mānoa optimize their study time through peer-organized, in-person study sessions. It enables students to easily propose and join study sessions in many different subjects. Students are categorized as “<ins>sensei</ins>” (helpers) and “<ins>grasshoppers</ins>” (learners) depending on the course.
+*The Solution:* Sync’d Study is a web application designed to help students at the University of Hawai‘i at Manoā optimize their study time through peer-organized, in-person study sessions. It enables students to easily propose and join study sessions in many different subjects. Students are categorized as “<ins>sensei</ins>” (helpers) and “<ins>grasshoppers</ins>” (learners) depending on the course.
 
 ### Key Features
 
@@ -107,9 +107,14 @@ Admins can:
 
 Development follows an issue-driven project management process. Tasks are managed using GitHub Projects, with branches per issue and milestones.
 
-Milestone 1: 
+Milestone 1: [M1 GitHub Project](https://github.com/orgs/syncdstudy/projects/1)
 
-- Initial project setup and planning completed (e.g., repo creation, team roles assigned, tools selected).
+- Initial project setup & planning completed (e.g., GitHub repository creation, mock-up sketches, deploy to Vercel).
+- Created the following pages:
+    - Landing Page
+    - User Home Page
+    - Admin Page
+    - User Profile Set-up
 
 Milestone 2: 
 
