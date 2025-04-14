@@ -116,7 +116,7 @@ Development follows an issue-driven project management process. Tasks are manage
     - Admin Page
     - User Profile Set-up
 
-Milestone 2: 
+[Milestone 2](https://github.com/orgs/syncdstudy/projects/2): 
 
 - No development tasks completed for this milestone yet.
 
