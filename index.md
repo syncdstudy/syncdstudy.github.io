@@ -46,7 +46,9 @@ Here's how it works:
 
 ## Deployment
 
-Sync'd Study will be deployed at https://syncdstudy.github.io. This site provides public documentation and walkthroughs for the application.
+Sync'd Study is made accessible to everyone through a [Vercel](https://vercel.com) deployment. Once a new code or update is pushed to the repository, Vercel automatically handles the building process and rolling out the latest version, minimizing downtime. This approach means that improvements, new features, or bug fixes are quickly made available to everyone using Sync'd Study.
+
+Click [here](https://syncdstudy.vercel.app) to visit the live application!
 
 ## User Guide
 
