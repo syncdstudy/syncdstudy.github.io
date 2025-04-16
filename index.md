@@ -10,17 +10,17 @@
 * [Meet the Team](#meet-the-team)
 
 ## Overview
-*The Problem:* UHM students often spend more time than they need on their homework and don’t learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
+*The Problem:* UHM students often spend more time than they need on their homework and don't learn the material as effectively as they could, because they study alone and do not leverage the power of face-to-face study groups with peer mentors.
 
-*The Solution:* Sync’d Study is a web application designed to help students at the University of Hawai‘i at Manoā optimize their study time through peer-organized, in-person study sessions. It enables students to easily propose and join study sessions in many different subjects. Students are categorized as “<ins>sensei</ins>” (helpers) and “<ins>grasshoppers</ins>” (learners) depending on the course.
+*The Solution:* Sync'd Study is a web application designed to help students at the University of Hawai'i at Manoā optimize their study time through peer-organized, in-person study sessions. It enables students to easily propose and join study sessions in many different subjects. Students are categorized as “<ins>sensei</ins>” (helpers) and “<ins>grasshoppers</ins>” (learners) depending on the course.
 
 ### Key Features
 
 Here's how it works: 
 
 - **User Profiles:** Students must log in and set up their profile that includes a headshot and two course lists:
-    - Courses they’ve taken and can help with. (Sensei)
-    - Courses they’re currently taking and need help with. (Grasshopper)
+    - Courses they've taken and can help with. (Sensei)
+    - Courses they're currently taking and need help with. (Grasshopper)
     - Every student can be both a sensei and a grasshopper, depending on the course.
 
 - **Course Directory:** All courses are listed on the site. Within each course, students can view the senseis and grasshoppers associated with it. 
@@ -38,8 +38,6 @@ Here's how it works:
     - Incentives such as gift cards for top-performing senseis and grasshoppers.
     - Anti-cheating measures to ensure points are earned through meaningful interaction. *(Feature under discussion)*
 
-- **Admin Tools:** Admins can monitor user activity, resolve issues, and ensure the space remains safe and supportive. Users can also contact admins to report inappropriate behavior.
-
 ### Goals
 
 - Foster in-person collaboration on campus.
@@ -56,39 +54,28 @@ This section provides a walkthrough of the Sync'd Study user interface and its c
 
 ### Landing Page
 
-Public entry point to explain the app and link to login.
+The public entry point that welcomes the student to the web application. The top navigation bar in this page guides the student to key sections such as *How It Works*, *Location on Campus*, *About*, *Sign-up*, and *Log-in*, making it quick and easy to learn about the platform or get started right away!
 
-### User Home Page
+- The *How It Works* section explains the overall process of using the web application (e.g., how to create a session, join sessions, etc.).
+- The *Location on Campus* section displays specific places on campus that students can meet up in person. 
+- The *About* section provides the background information on Sync'd Study, team, and its mission.
 
-Displays personal dashboard and calendar. Includes quick links to profile and study sessions.
+### User Profile Setup 
 
-### Admin Home Page
+To sign-up, users are first prompted to enter their email and preferred password. Next, they'll be directed to set up their profile, where they can provide basic information (e.g., name, year, etc.), add courses, and specify study preferences. After adding a course, they'll also be asked whether they want to be a *sensei*, *grasshopper*, or both.
 
-Displays a personal dashboard and calendar, with additional tools to monitor users, manage sessions, and oversee platform activity.
+### User Page
 
-### User Profile Setup
+After logging in, users are directed to the *Calendar* page, which displays a monthly overview of their study sessions and other features such as a list of their courses that consist of sessions, upcoming sessions (weekly), to-do list, a button to create a session. The top navigation bar in this page guides the user to key sections--Upcoming Sessions, My Courses, My Profile, and Gamification (feature under discussion)--so they can easily manage their schedule and profile details: 
 
-Users declare their courses (past and present) and upload a headshot.
-
-### Calendar Page
-
-Visual display of all upcoming and active sessions.
-
-### Create Study Sesh Page
-
-Propose a new session by selecting course, topic, and time. Sessions can be scheduled in advance or "Right Now!".
-
-### Course Pages
-
-Each course shows sensei and grasshopper members, and active/proposed study sessions.
+- The *My Courses* section allow users to add or remove courses. For adding a course, they'll be asked whether they want to be a *sensei*, *grasshopper*, or both.
+- The *My Profile* section allow users to store and upate their personal information and preferences (e.g. year, social links).
+- The *Gamification* section may include a leaderboard (public to all users), the user's stats section displaying their points and current level, and a monthly prize to reward active participation.
+- Within the *Calendar* page, users can create a new session by entering details (e.g., subject name (what they need help on), course, time, date, preferred location (in-person or online), scheduling option ("plan ahead" or "right now!")). If a session already exists, users can click on the existing session and can edit it by updating time, location, or other meeting details.
 
 ### Notifications
 
-Members of the course receive alerts and can respond to confirm attendance.
-
-### Game Mechanics
-
-Earn points by participating in sessions, organizing events, or helping others. Weekly/monthly leaderboard available.
+With the Notification toggle enabled, members of the course will receive alerts whenever someone creates a new study session. Each alert prompts them to either ignore the notification or respond if they're interested in joining.
 
 ## Community Feedback
 
@@ -97,6 +84,7 @@ Have suggestions or comments? Submit your feedback through our Sync'd Study Feed
 ## Developer Guide
 
 ### Admin Tools
+Admins can monitor user activity, resolve issues, and ensure the space remains safe and supportive. Users can also contact admins to report inappropriate behavior.
 
 Admins can:
 - Review user reports
@@ -111,10 +99,9 @@ Development follows an issue-driven project management process. Tasks are manage
 
 - Initial project setup & planning completed (e.g., GitHub repository creation, mock-up sketches, deploy to Vercel).
 - Created the following pages:
-    - Landing Page
-    - User Home Page
-    - Admin Page
-    - User Profile Set-up
+    - Landing page
+    - User Profile Set-up page
+    - How It Works page
 
 Milestone 2: 
 
@@ -133,4 +120,4 @@ Milestone 4:
 
 Sync'd Study is developed by a team of ICS students at UH Mānoa: [Angela Joy Almeron](https://angelaalmeron.github.io/), [Silvia Arjona](https://silviaarjonag.github.io/), [Arisa Nakai](https://arisa-1208.github.io/), and [Jaimee Yokoyama](https://jamiee-tech.github.io/). For more information or contributions, visit our [GitHub repo](https://github.com/syncdstudy/syncdstudy.github.io).
 
-Our [Team Contract](https://docs.google.com/document/d/1zECIUP7hNx_SDHHqtqRzjvWOJxT7PPx1KGY5Zllg55c/edit?usp=sharing)
+Our [Team Contract](https://docs.google.com/document/d/1zECIUP7hNx_SDHHqtqRzjvWOJxT7PPx1KGY5Zllg55c/edit?usp=sharing).
