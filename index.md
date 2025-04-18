@@ -62,9 +62,15 @@ The public entry point that welcomes the student to the web application. The top
 - The *Location on Campus* section displays specific places on campus that students can meet up in person. 
 - The *About* section provides the background information on Sync'd Study, team, and its mission.
 
+**Mock-up Landing Page**
+<img src="img/LandingPage.PNG" alt="Mock-up Landing Page">
+
 ### User Profile Setup 
 
 To sign-up, users are first prompted to enter their email and preferred password. Next, they'll be directed to set up their profile, where they can provide basic information (e.g., name, year, etc.), add courses, and specify study preferences. After adding a course, they'll also be asked whether they want to be a *sensei*, *grasshopper*, or both.
+
+**Mock-up User Profile Setup Page**
+<img src="img/UserProfileSetUp.PNG" alt="Mock-up User Profile Setup Page">
 
 ### User Page
 
@@ -74,6 +80,9 @@ After logging in, users are directed to the *Calendar* page, which displays a mo
 - The *My Profile* section allow users to store and upate their personal information and preferences (e.g. year, social links).
 - The *Gamification* section may include a leaderboard (public to all users), the user's stats section displaying their points and current level, and a monthly prize to reward active participation.
 - Within the *Calendar* page, users can create a new session by entering details (e.g., subject name (what they need help on), course, time, date, preferred location (in-person or online), scheduling option ("plan ahead" or "right now!")). If a session already exists, users can click on the existing session and can edit it by updating time, location, or other meeting details.
+
+**Mock-up User Page**
+<img src="img/CalendarView.PNG" alt="Mock-up User Page">
 
 ### Notifications
 
@@ -93,6 +102,9 @@ Admins can:
 - Moderate sessions
 - Manage reward programs
 
+**Mock-up Admin Page**
+<img src="img/AdminLeaderboard.PNG" alt="Mock-up Admin Page">
+
 ## Development History
 
 Development follows an issue-driven project management process. Tasks are managed using GitHub Projects, with branches per issue and milestones.
@@ -100,12 +112,16 @@ Development follows an issue-driven project management process. Tasks are manage
 [Milestone 1](https://github.com/orgs/syncdstudy/projects/1):
 
 - Initial project setup & planning completed (e.g., GitHub repository creation, mock-up sketches, deploy to Vercel).
-- Created the following pages:
+- Created the following mock-up pages:
     - Landing page
     - User Profile Set-up page
-    - How It Works page
+    - User page
+    - Admin page
+- Create the following pages:
+    - Landing page
+    - "How it Works" page
 
-Milestone 2: 
+[Milestone 2](https://github.com/orgs/syncdstudy/projects/2): 
 
 - No development tasks completed for this milestone yet.
 
@@ -117,6 +133,10 @@ Milestone 4:
 
 - No development tasks completed for this milestone yet.
 
+**Progress:**
+<img src="img/Progress-01.png" alt="Progress 01">
+<img src="img/Progress-02.png" alt="Progress 02">
+<img src="img/Progress-03.png" alt="Progress 03">
 
 ## Meet the Team
 
