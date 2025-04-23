@@ -3,6 +3,7 @@
 ## Table of Contents
 * [Overview](#overview)
 * [Deployment](#deployment)
+* [ERD](#entity-relationship-diagram-erd)
 * [User Guide](#user-guide)
 * [Community Feedback](#community-feedback)
 * [Developer Guide](#developer-guide)
@@ -49,6 +50,12 @@ Here's how it works:
 Sync'd Study is made accessible to everyone through a [Vercel](https://vercel.com) deployment. Once a new code or update is pushed to the repository, Vercel automatically handles the building process and rolling out the latest version, minimizing downtime. This approach means that improvements, new features, or bug fixes are quickly made available to everyone using Sync'd Study.
 
 Click [here](https://syncdstudy.vercel.app) to visit the live application!
+
+## Entity-Relationship Diagram (ERD)
+
+This is an AI-generated Entity-Relationship Diagram that illustrates the core database structure of Sync’d Study, showing how students, courses, roles, study sessions, and notifications are interconnected. It enables features like personalized session matching, role-based course support (sensei or grasshopper), and real-time collaboration through scheduled study sessions and notifications.
+
+<img src="img/mermaid-ai-diagram.png" alt="Entity-Relationship Diagram (ERD)">
 
 ## User Guide
 
