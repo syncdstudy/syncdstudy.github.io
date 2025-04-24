@@ -128,22 +128,35 @@ Development follows an issue-driven project management process. Tasks are manage
     - Landing page
     - "How it Works" page
 
+**Progress:**
+<img src="img/Progress-01.png" alt="Progress 01">
+<img src="img/Progress-02.png" alt="Progress 02">
+<img src="img/Progress-03.png" alt="Progress 03">
+
 [Milestone 2](https://github.com/orgs/syncdstudy/projects/2): 
 
-- No development tasks completed for this milestone yet.
+- Created the following pages:
+    - "Locations on Campus" page
+    - "About" page
+    - Sign-in, Sign-up, Sign-out, & Change Password pages
+    - User Home page: Calendar, My Profile, My Courses, & Create a Study Session
+    - Admin Home page
 
-Milestone 3: 
+**Progress:**
+<img src="img/Progress-04.png" alt="Progress 04">
+<img src="img/Progress-05.png" alt="Progress 05">
+<img src="img/Progress-06.png" alt="Progress 06">
+<img src="img/Progress-07.png" alt="Progress 07">
+<img src="img/Progress-08.png" alt="Progress 08">
+<img src="img/Progress-09.png" alt="Progress 09">
+
+[Milestone 3](https://github.com/orgs/syncdstudy/projects/4): 
 
 - No development tasks completed for this milestone yet.
 
 Milestone 4: 
 
 - No development tasks completed for this milestone yet.
-
-**Progress:**
-<img src="img/Progress-01.png" alt="Progress 01">
-<img src="img/Progress-02.png" alt="Progress 02">
-<img src="img/Progress-03.png" alt="Progress 03">
 
 ## Meet the Team
 
