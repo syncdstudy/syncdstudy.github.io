@@ -128,11 +128,6 @@ Development follows an issue-driven project management process. Tasks are manage
     - Landing page
     - "How it Works" page
 
-**Progress:**
-<img src="img/Progress-01.png" alt="Progress 01">
-<img src="img/Progress-02.png" alt="Progress 02">
-<img src="img/Progress-03.png" alt="Progress 03">
-
 [Milestone 2](https://github.com/orgs/syncdstudy/projects/2): 
 
 - Created the following pages:
@@ -142,14 +137,6 @@ Development follows an issue-driven project management process. Tasks are manage
     - User Home page: Calendar, My Profile, My Courses, & Create a Study Session
     - Admin Home page
 
-**Progress:**
-<img src="img/Progress-04.png" alt="Progress 04">
-<img src="img/Progress-05.png" alt="Progress 05">
-<img src="img/Progress-06.png" alt="Progress 06">
-<img src="img/Progress-07.png" alt="Progress 07">
-<img src="img/Progress-08.png" alt="Progress 08">
-<img src="img/Progress-09.png" alt="Progress 09">
-
 [Milestone 3](https://github.com/orgs/syncdstudy/projects/4): 
 
 - No development tasks completed for this milestone yet.
@@ -157,6 +144,19 @@ Development follows an issue-driven project management process. Tasks are manage
 Milestone 4: 
 
 - No development tasks completed for this milestone yet.
+
+### Current Progress
+The current results of continuous integration via badge:
+<img src="img/badge.svg" alt="Progress 01">
+
+The current state of the pages:
+<img src="img/progress-1.png" alt="Progress 01">
+<img src="img/progress-2.png" alt="Progress 02">
+<img src="img/progress-3.png" alt="Progress 03">
+<img src="img/progress-4.png" alt="Progress 04">
+<img src="img/progress-5.png" alt="Progress 05">
+<img src="img/progress-6.png" alt="Progress 06">
+<img src="img/progress-7.png" alt="Progress 07">
 
 ## Meet the Team
 
