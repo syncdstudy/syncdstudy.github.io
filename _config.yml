@@ -6,9 +6,10 @@ theme: jekyll-theme-minimal
 # github:
 #  is_project_page: true
 #  repository_url: https://github.com/syncdstudy/syncdstudy.github.io
-
-# GitHub Links
-- [View the Sync'd Study GitHub Organization](https://github.com/syncdstudy)
-- [View the Sync'd Study GitHub Pages Site](https://syncdstudy.github.io)
+links:
+  - title: View the Sync'd Study GitHub Organization
+    url: https://github.com/syncdstudy
+  - title: View the Sync'd Study GitHub Pages Site
+    url: https://syncdstudy.github.io
 gems:
   - jekyll-mentions
