@@ -1,5 +1,10 @@
 # Sync'd Study
 
+## Sync'd Study GitHub Links
+* [GitHub Organization](https://github.com/syncdstudy)
+* [Project Home Page Repository](https://github.com/syncdstudy/syncdstudy.github.io)
+* [Application Project Repository](https://github.com/syncdstudy/syncdstudy)
+
 ## Table of Contents
 * [Overview](#overview)
 * [Deployment](#deployment)
