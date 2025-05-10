@@ -40,9 +40,9 @@ Here's how it works:
 - **Calendar View:** A shared calendar displays all upcoming and ongoing study sessions, along with the list of attendees.
 
 - **Gamification:** To encourage participation, the app includes:
-    - A point system, levels, and a leaderboard.
-    - Incentives such as gift cards for top-performing senseis and grasshoppers.
-    - Anti-cheating measures to ensure points are earned through meaningful interaction. *(Feature under discussion)*
+    - A point system and leaderboard to track user engagement
+    - Regular announcements for community updates and achievements
+    - Points displayed on user profiles
 
 ### Goals
 
@@ -90,7 +90,7 @@ After logging in, users are directed to the *Calendar* page, which displays a mo
 
 - The *My Courses* section allow users to add or remove courses. For adding a course, they'll be asked whether they want to be a *sensei*, *grasshopper*, or both.
 - The *My Profile* section allow users to store and upate their personal information and preferences (e.g. year, social links).
-- The *Gamification* section may include a leaderboard (public to all users), the user's stats section displaying their points and current level, and a monthly prize to reward active participation.
+- The *Gamification* section displays the community leaderboard and important announcements from administrators, allowing users to track their standing in the community. Users can also view their personal points directly on their profile page.
 - Within the *Calendar* page, users can create a new session by entering details (e.g., subject name (what they need help on), course, time, date, preferred location (in-person or online), scheduling option ("plan ahead" or "right now!")). If a session already exists, users can click on the existing session and can edit it by updating time, location, or other meeting details.
 
 **Mock-up User Page**
@@ -112,7 +112,9 @@ Admins can monitor user activity, resolve issues, and ensure the space remains s
 Admins can:
 - Review user reports
 - Moderate sessions
-- Manage reward programs
+- Manage community announcements in the Gamification section
+- Monitor and maintain the point system
+
 
 **Mock-up Admin Page**
 <img src="img/AdminLeaderboard.PNG" alt="Mock-up Admin Page">
