@@ -74,9 +74,7 @@ The public entry point that welcomes the student to the web application. The top
 - The *Location on Campus* section displays specific places on campus that students can meet up in person. 
 - The *About* section provides the background information on Sync'd Study, its mission, and the team that made the dreamwork.
 
-### User Profile Setup 
-
-To sign-up, users are first prompted to enter their email and preferred password. Next, they'll be directed to set up their profile, where they can provide basic information (e.g., name, year, etc.), add courses, and specify study preferences. After adding a course, they'll also be asked whether they want to be a *sensei*, *grasshopper*, or both.
+<img src="./img/landing.gif" alt="Landing Page" width="500">
 
 ### User Page
 
@@ -86,7 +84,7 @@ After logging in, users are directed to the *Calendar* page, which displays a mo
 - The *Study Session* page allows users to create a new session by entering key details, including the subject name (what they need help with), course, time, date, preferred location (in-person or online), and scheduling option ("plan ahead" or "right now!"). Users will receive notifications when other students create study sessions for courses they are also enrolled in. Additionally, they can view all their scheduled sessions in the "Upcoming Sessions" section.
 - The *Leaderboard* page displays a leaderboard (public to all users), and important announcements from administrators (e.g., monthly prizes, new challenges, etc.).
 - The *Study Spots* page is similar to the *Location on Campus* section from the landing page, providing students with a convenient way to find on-campus locations for in-person study sessions.
-- The *My Profile* page allows users to store and update their personal information, such as their name and year. It also provides a space to view their session history, track achievement points, and manage their enrolled courses.
+- The *My Profile* page allows users to store and update their personal information, such as their name and year. It also provides a space to view their session history, track achievement points, and manage their enrolled courses. 
 
 ### Notifications
 
