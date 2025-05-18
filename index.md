@@ -105,6 +105,16 @@ Admins can:
 
 Have suggestions or comments? Submit your feedback through our [Sync'd Study Feedback Form](https://syncdstudy.vercel.app/contact).
 
+Theressa N. C.
+* Feedbacks: 
+    * "You and your team created this? Wow."
+    * "If you didn't tell me that you [and your team] created this, I would've assumed this was like developed professionally. I don't know how to word that correctly LOL."
+    * "I am loving the vibe. The location feature thingy, the sign in message, the calendar. absolutely love it!"
+* Critical Review:
+    * "Mmm.. the create a study session thing don't work. when I submit it, it's not showing in the my session section."
+    * "I don't really like the slightly big empty space under the my profile section."
+* Rating: 8.5/10
+
 ## Developer Guide
 
 This section serves as a developer guide for downloading, installing, running, and customizing the Sync'd Study application for personal use or further development.
