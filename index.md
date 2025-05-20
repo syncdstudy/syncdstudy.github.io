@@ -115,6 +115,30 @@ Theressa N. C.
     * "I don't really like the slightly big empty space under the my profile section."
 * Rating: 8.5/10
 
+Kaleo T.
+* Feedbacks: 
+    * "I like the sign in and sign up animation effects."
+* Critical Review:
+    * "It's lowkey gurly-ish. You should do the school color theme. I don't know." 
+* Rating: 7/10
+
+Benjamin M.
+* Feedbacks: 
+    * "Okayyy, this looks really nice~!!"
+    * "I love the sign in and sign up design, and the study session layout."
+* Critical Review:
+    * "Mmm not much to criticize tbh except the calendar and creating a study session. there's tiny bug. but it's alright."
+* Rating: 9/10
+
+Janelle R. V.
+* Feedbacks:
+    * "I really love the color theme, the homepage, and the study session."
+* Critical Review: 
+    * "I don't like the empty space in the my profile section."
+    * "The dashboard section looks off or just not giving a bit."
+    * "The study session ain't workin'."
+* Rating: 7.5/10
+
 ## Developer Guide
 
 This section serves as a developer guide for downloading, installing, running, and customizing the Sync'd Study application for personal use or further development.
